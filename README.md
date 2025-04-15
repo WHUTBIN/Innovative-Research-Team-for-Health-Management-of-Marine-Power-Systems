@@ -1,4 +1,4 @@
-# Innovative-Research-Team-for-Health-Management-Itelligent-Maintenance-of-Ship-Power-Systems
+# Innovative-Research-Team-for-Health-Management-and-Itelligent-Maintenance-of-Ship-Power-Systems
 
 ## 船舶动力系统健康管理与智能运维创新研究团队 
 
