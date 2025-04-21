@@ -18,6 +18,8 @@
 
   #### 4)  Digital Twin and Mechanical Dynamics Modeling （数字孪生与机械动力学建模）
 
+  #### 5） Friction, wear and lubrication of ship stern bearings  （船舶艉轴承摩擦磨损与润滑）
+ 
  ###### ------------------------------------- 
 
  ###### --------------------------------------
