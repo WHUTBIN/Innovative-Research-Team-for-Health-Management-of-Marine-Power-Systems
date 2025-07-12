@@ -1,5 +1,6 @@
 #  MIMS Lab （Marine Intelligent Machinery and Systems Lab）
 
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/529d51dd-54c8-486a-9e59-ac1e55bb5034" />
 
  ###### ------------------------------------- 
 Marine Intelligent Machinery and Systems Laboratory (MIMS Lab)
