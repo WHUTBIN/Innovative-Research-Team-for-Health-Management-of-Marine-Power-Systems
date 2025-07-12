@@ -1,26 +1,29 @@
-# Innovative-Research-Team-for-Health-Management-and-Itelligent-Maintenance-of-Ship-Power-Systems
+#  MIMS Lab （Marine Intelligent Machinery and Systems Lab）
 
-## 船舶动力系统健康管理与智能运维创新研究团队 
 
  ###### ------------------------------------- 
+Marine Intelligent Machinery and Systems Laboratory (MIMS Lab)
+Wuhan University of Technology
 
+The Marine Intelligent Machinery and Systems Laboratory (MIMS Lab) is a multidisciplinary research group dedicated to advancing marine mechanical systems, intelligent maintenance technologies, and deep-sea equipment engineering. Affiliated with Wuhan University of Technology, the lab focuses on fundamental and applied research in the fields of:
+
+  #### 1)  Ship propulsion and mechanical transmission systems
+
+  #### 2)  Intelligent operation and maintenance (O&M) of marine equipment
+
+  #### 3)  Friction, lubrication, and reliability of mechanical systems
+
+  #### 4)  Smart technologies for dredging, Deep Sea Mining, and ship lifts
+
+  #### 5)  Oil and gas storage, transportation, and safety risk assessment
+
+Through a combination of theoretical modeling, experimental validation, and digital intelligence integration, MIMS Lab aims to promote sustainable, efficient, and safe development of marine equipment and systems.
+
+We actively collaborate with industry partners and academic institutions worldwide to solve real-world challenges in the maritime and offshore engineering sectors.
  ###### --------------------------------------
  
 
-  ## Our Research Focus:
 
-
-  #### 1)  Anomaly Detection and Fault Diagnosis （异常检测与故障诊断）
-
-  #### 2)  Reliability and Fault Tolerance of Perception Systems （感知系统可靠性与故障容错）
-
-  #### 3)  Multimodal Condition Representation and Remaining Useful Life (RUL) Prediction （多模态状态表征与剩余寿命预测）
-
-  #### 4)  Digital Twin and Mechanical Dynamics Modeling （数字孪生与机械动力学建模）
-
-  #### 5） Friction, wear and lubrication of ship stern bearings  （船舶艉轴承摩擦磨损与润滑）
- 
- ###### ------------------------------------- 
 
  ###### --------------------------------------
   
