@@ -1,7 +1,7 @@
 #  M-DR Lab (Marine Mechanical Dynamics and Reliability Laboratory)
 
-<img width="500" height="500" alt="image" src="<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/15fff285-2f88-4807-a4bd-7136ddfbe490" />
- />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/6c557f96-3985-4064-acd4-f12184d2d1b9" />
+
 
  ###### ------------------------------------- 
 Marine Intelligent Machinery and Systems Laboratory (MIMS Lab)
